@@ -105,4 +105,4 @@ https://angular-tarefas.herokuapp.com/
 
 
 
-## Made By Andrei, Jorge, Matheus
+Made By Andrei, Jorge, Matheus
