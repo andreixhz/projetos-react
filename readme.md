@@ -6,4 +6,4 @@ backend: Matheus da Silva Ferreira - F14AID5
 frontend: Andrei Gonçalves - F3044E6
 mobile: feito por jorg - 
 
-angular-tarefas.herokuapp.com/
+https://angular-tarefas.herokuapp.com/
